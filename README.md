@@ -7,7 +7,8 @@ The project walks you through two main stages:
 2) The estimation of the multinomial model, the model fit parameters (accuracy, precision, recall, confusion matrix).
 
 
-Limitatations
+Limitations
+Model misspecification 
 
 
 
