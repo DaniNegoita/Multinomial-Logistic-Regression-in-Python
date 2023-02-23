@@ -4,7 +4,7 @@ This project develops and predicts a three-class classification using a Python m
 
 The project walks you through two main stages:
 1) The pre-processing step where the data were cleaned, imputed, and transformed to better serve the algorithm's purposes
-2) The estimation of the multinomial model, the model fit parameters (accuracy, precision, recall, confusion matrix).
+2) The estimation of the multinomial model, the model evaluation parameters (accuracy, precision, recall, confusion matrix).
 
 
 Limitations
