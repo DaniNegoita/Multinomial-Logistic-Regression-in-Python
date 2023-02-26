@@ -11,7 +11,7 @@ Limitations:
 
 High shares of missing values 
 
-Model misspecification (more pertinent features could be added)
+Potential model misspecification 
 
 
 
