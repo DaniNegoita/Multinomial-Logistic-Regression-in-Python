@@ -301,8 +301,7 @@ acc_train
 acc_test
 # 65%
 
-# Low accuracy for both sets but they are close meaning that the model does not
-# atleast underfit or overfit
+# Poor performance but the scores are close meaning that the model does not atleast underfit or overfit
 
 
   # Model evaluation using Confusion Matrix
